@@ -1,0 +1,44 @@
+{
+  "manifest_version": 3,
+  "name": "USF Preschool For Creative Learning Auto Reminder",
+  "version": "1.0",
+  "description": "Automatically fill USF Preschool payment forms and set up monthly autopay",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "alarms",
+    "tabs",
+    "scripting",
+    "notifications"
+  ],
+  "host_permissions": [
+    "https://cloud.usf.edu/*",
+    "https://mail.google.com/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://cloud.usf.edu/gateway/preschool/*"],
+      "js": ["content.js"],
+      "run_at": "document_end",
+      "all_frames": false
+    },
+    {
+      "matches": ["https://secure.touchnet.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_end",
+      "all_frames": false
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "USF Preschool For Creative Learning Auto Reminder"
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}

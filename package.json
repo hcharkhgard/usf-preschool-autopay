@@ -1,0 +1,66 @@
+{
+  "name": "usf-preschool-autopay",
+  "version": "1.0.0",
+  "description": "Browser extension for automatic USF Preschool payment form filling and monthly autopay reminders",
+  "main": "manifest.json",
+  "scripts": {
+    "build": "echo 'Extension is ready to load in browser'",
+    "test": "echo 'No tests specified'",
+    "lint": "echo 'No linter configured'",
+    "package": "zip -r usf-preschool-autopay.zip . -x '*.git*' 'node_modules/*' '*.md' '*.json' '*.log'"
+  },
+  "keywords": [
+    "browser-extension",
+    "chrome-extension",
+    "firefox-extension",
+    "autopay",
+    "usf",
+    "preschool",
+    "payment",
+    "automation",
+    "form-filling",
+    "reminders",
+    "touchnet",
+    "payment-portal"
+  ],
+  "author": {
+    "name": "USF Autopay Extension Developer",
+    "email": "developer@example.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/usf-preschool-autopay.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/usf-preschool-autopay/issues"
+  },
+  "homepage": "https://github.com/yourusername/usf-preschool-autopay#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "Chrome >= 88",
+    "Edge >= 88",
+    "Firefox >= 78"
+  ],
+  "files": [
+    "manifest.json",
+    "content.js",
+    "popup.html",
+    "popup.js",
+    "background.js",
+    "icon16.png",
+    "icon48.png",
+    "icon128.png",
+    "README.md",
+    "INSTALLATION.md",
+    "DISCLAIMER.md",
+    "LICENSE",
+    "CONTRIBUTING.md"
+  ],
+  "devDependencies": {},
+  "dependencies": {}
+}
+
+
