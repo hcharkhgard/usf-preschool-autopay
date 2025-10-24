@@ -22,7 +22,7 @@ A browser extension that automatically fills out the USF Preschool For Creative 
 
 **INDEPENDENCE NOTICE: This tool has NOTHING to do with USF or USF Preschool For Creative Learning. Neither USF nor USF Preschool For Creative Learning developed this tool, maintain it, or have any association with it. This is an independent third-party tool created by an external developer.**
 
-## 📸 Video
+## 📸 Watch Installation Video (click in the image below)
 
 [![Watch the video](https://img.youtube.com/vi/cICa25vTNic/maxresdefault.jpg)](https://www.youtube.com/watch?v=cICa25vTNic)
 
