@@ -24,7 +24,7 @@ A browser extension that automatically fills out the USF Preschool For Creative 
 
 ## 📸 Video
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=cICa25vTNic)
+[![Watch the video](https://img.youtube.com/vi/cICa25vTNic/maxresdefault.jpg)](https://www.youtube.com/watch?v=cICa25vTNic)
 
 
 ## 🛠️ Installation
