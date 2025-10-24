@@ -22,16 +22,10 @@ A browser extension that automatically fills out the USF Preschool For Creative 
 
 **INDEPENDENCE NOTICE: This tool has NOTHING to do with USF or USF Preschool For Creative Learning. Neither USF nor USF Preschool For Creative Learning developed this tool, maintain it, or have any association with it. This is an independent third-party tool created by an external developer.**
 
-## 📸 Screenshots
+## 📸 Video
 
-### Extension Popup Interface
-![Extension Popup](https://via.placeholder.com/400x600/0066cc/ffffff?text=Extension+Popup+Interface)
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=cICa25vTNic)
 
-### Auto-Fill in Action
-![Auto-Fill Demo](https://via.placeholder.com/800x400/28a745/ffffff?text=Auto-Fill+Form+Demo)
-
-### Payment Reminder
-![Payment Reminder](https://via.placeholder.com/400x300/dc3545/ffffff?text=Payment+Reminder+Notification)
 
 ## 🛠️ Installation
 
